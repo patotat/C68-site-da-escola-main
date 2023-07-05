@@ -1,0 +1,14 @@
+.viagem_maindiv
+ {
+     border: 1px solid lightgrey;
+ } 
+ 
+ .viagem_maindiv img 
+{ 
+      width: 100%;  
+ } 
+
+ .viagem_maindiv h5 , .viagem_maindiv p 
+ {     
+    margin: 20px; 
+}
